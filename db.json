@@ -4,8 +4,8 @@
       "id" : "1",
       "name" : "BMW 5 Series"
     },
-    "car2" : {
-      "id" : "car2",
+    "2" : {
+      "id" : "2",
       "name" : "Ford KA"
     }
   }
