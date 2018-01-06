@@ -1,0 +1,12 @@
+{
+  "cars" : {
+    "car1" : {
+      "id" : "car1",
+      "name" : "BMW 5 Series",
+    },
+    "car2" : {
+      "id" : "car2",
+      "name" : "Ford KA",
+    }
+  }
+}
