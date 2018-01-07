@@ -2,6 +2,7 @@
    "Result":[
       {
          "Name":"The",
+         "Preco": "123",
          "CreatedAt":"2017-12-09T03:51:23.835Z",
          "ModifiedAt":"2017-12-09T03:51:23.835Z",
          "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
