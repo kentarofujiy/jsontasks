@@ -1,278 +1,996 @@
-{
-   "Result":[
-      {
-         "Name":"The",
-         "Preco": "123",
-         "CreatedAt":"2017-12-09T03:51:23.835Z",
-         "ModifiedAt":"2017-12-09T03:51:23.835Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"39a318b0-dc94-11e7-95e9-8f5eb6df00bb",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"As",
-         "CreatedAt":"2017-12-09T03:51:31.083Z",
-         "ModifiedAt":"2017-12-09T03:51:31.083Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"3df50db0-dc94-11e7-b5d5-69d5d5b4a363",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"D",
-         "CreatedAt":"2017-12-09T04:14:54.685Z",
-         "ModifiedAt":"2018-01-01T22:03:42.056Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Done":true,
-         "Id":"8291b8d0-dc97-11e7-b5e8-17f0e4e8d381",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":" Gfgcxvhj",
-         "CreatedAt":"2018-01-01T22:03:46.332Z",
-         "ModifiedAt":"2018-01-01T22:03:46.332Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"a382b5c0-ef3f-11e7-9f01-357d22230c1d",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"Teste",
-         "CreatedAt":"2018-01-03T01:15:47.259Z",
-         "ModifiedAt":"2018-01-03T01:15:47.259Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"a0ee68b0-f023-11e7-ab46-e74179bf1e4e",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"Teste",
-         "CreatedAt":"2018-01-03T01:15:51.812Z",
-         "ModifiedAt":"2018-01-03T01:15:51.812Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"a3a52440-f023-11e7-a6fd-b7df755e0664",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"Ggggg",
-         "CreatedAt":"2018-01-03T01:16:05.238Z",
-         "ModifiedAt":"2018-01-03T01:16:05.238Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"aba5c960-f023-11e7-a6fd-b7df755e0664",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"Ghhq",
-         "CreatedAt":"2018-01-03T01:18:25.743Z",
-         "ModifiedAt":"2018-01-03T01:18:25.743Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"ff64fee0-f023-11e7-be57-c528a3f612d7",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"Uhhh",
-         "CreatedAt":"2018-01-03T01:18:39.146Z",
-         "ModifiedAt":"2018-01-03T01:18:39.146Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"076248a0-f024-11e7-88df-0bbac9e8a2d8",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"Fffg",
-         "CreatedAt":"2018-01-03T01:21:13.992Z",
-         "ModifiedAt":"2018-01-03T01:21:13.992Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"63ade880-f024-11e7-ab46-e74179bf1e4e",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"Grtff",
-         "CreatedAt":"2018-01-03T01:25:56.784Z",
-         "ModifiedAt":"2018-01-03T01:25:56.784Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"0c3c8b00-f025-11e7-88df-0bbac9e8a2d8",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"Como",
-         "CreatedAt":"2018-01-03T01:26:13.830Z",
-         "ModifiedAt":"2018-01-03T01:26:13.830Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"16658e60-f025-11e7-88df-0bbac9e8a2d8",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"Cgfff",
-         "CreatedAt":"2018-01-03T01:59:52.821Z",
-         "ModifiedAt":"2018-01-03T01:59:52.821Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"c9cf2250-f029-11e7-be57-c528a3f612d7",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"Teste",
-         "CreatedAt":"2018-01-03T19:44:08.295Z",
-         "ModifiedAt":"2018-01-03T19:44:08.295Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"76a33770-f0be-11e7-8d37-835902b41035",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"Hjkhk",
-         "CreatedAt":"2018-01-03T19:50:05.266Z",
-         "ModifiedAt":"2018-01-03T19:50:05.266Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"4b68ab20-f0bf-11e7-8ad3-6dcbf9127dd7",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"Ma",
-         "CreatedAt":"2018-01-03T19:50:24.136Z",
-         "ModifiedAt":"2018-01-03T19:50:24.136Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"56a80080-f0bf-11e7-83a0-a9a3ed259094",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      },
-      {
-         "Name":"mais uma ",
-         "CreatedAt":"2018-01-03T20:01:59.171Z",
-         "ModifiedAt":"2018-01-03T20:01:59.171Z",
-         "CreatedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "ModifiedBy":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Owner":"44b15780-dc8a-11e7-b5d5-69d5d5b4a363",
-         "Id":"f4eded30-f0c0-11e7-bd1c-39de76a810eb",
-         "Meta":{
-            "Permissions":{
-               "CanRead":true,
-               "CanUpdate":true,
-               "CanDelete":true
-            }
-         }
-      }
-   ]
-}
+[
+    {
+        "id": "wOk",
+        "title": "Supermercados Dalben",
+        "address": "Avenida Nossa Senhora de Fatima",
+        "lat": -22.8771743,
+        "lng": -47.0429612
+    },
+    {
+        "id": "8Np",
+        "title": "Lojas Swift",
+        "address": "Avenida Barao de Itapura",
+        "lat": -22.8869972,
+        "lng": -47.0594963
+    },
+    {
+        "id": "G27",
+        "title": "Higa Produtos Alimentícios Ltda",
+        "address": "Rua Pedro Stancato",
+        "lat": -22.8582613,
+        "lng": -47.1047774
+    },
+    {
+        "id": "xEP",
+        "title": "Bar e Lanches Flor da Minha Terra",
+        "address": "Rua Armando Sales de Oliveira",
+        "lat": -22.8795386,
+        "lng": -47.0500313
+    },
+    {
+        "id": "rj8",
+        "title": "Jose Antonio Rotoli Campinas Me",
+        "address": "Rua Maria Monteiro",
+        "lat": -22.891141,
+        "lng": -47.052037
+    },
+    {
+        "id": "vgV",
+        "title": "Lojinha de Testes do Christian",
+        "address": "Rua S. Miguel Arcanjo",
+        "lat": -22.94193,
+        "lng": -47.0504687
+    },
+    {
+        "id": "3AA",
+        "title": "GETWAY TESTE",
+        "address": "AVENIDA BARAO DE ITAPURA",
+        "lat": -22.8780236,
+        "lng": -47.0524318
+    },
+    {
+        "id": "NEb",
+        "title": "Supermercados Cavicchiolli Ltda",
+        "address": "Rua Joao Bernestein",
+        "lat": -22.721075,
+        "lng": -47.3059507
+    },
+    {
+        "id": "pXz",
+        "title": "Peralta Comercio e Industria Ltda",
+        "address": "Rua Trinta de Julho",
+        "lat": -22.7375895,
+        "lng": -47.3322303
+    },
+    {
+        "id": "MOr",
+        "title": "GETWAY AUTOMACAO COMERCIAL LTDA",
+        "address": "AVENIDA ODIR ALEIXO",
+        "lat": -18.9647486,
+        "lng": -46.9979265
+    },
+    {
+        "id": "nvR",
+        "title": "KINKAS COMERCIO VAREJISTA LTDA",
+        "address": "AV. VENANCIO FLORES",
+        "lat": -19.8117001,
+        "lng": -40.2722345
+    },
+    {
+        "id": "R71",
+        "title": "S J DE LIMA  TAQUARIVAI  ME",
+        "address": "ROD. FRANCISCO ALVES NEGRAO",
+        "lat": -23.9236533,
+        "lng": -48.6927435
+    },
+    {
+        "id": "A6k",
+        "title": "A JR COMERCIO SUPRIMENTOS E SERV. INF. LTDA-ME",
+        "address": "RUA PRUDENTE DE MORAES",
+        "lat": -24.1105622,
+        "lng": -49.3282232
+    },
+    {
+        "id": "mve",
+        "title": "SUPERMERCADO PEREIRA DE SAO JOAO LTDA",
+        "address": "AV JOAO GOMES VIEIRA",
+        "lat": -18.7218865,
+        "lng": -41.1593202
+    },
+    {
+        "id": "jMz",
+        "title": "UZIAS DA COSTA BRAGA",
+        "address": "RUA DUQUE DE CAXIAS",
+        "lat": -8.6616312,
+        "lng": -36.3209667
+    },
+    {
+        "id": "4Pj",
+        "title": "SUPERMERCADO M S BARROS LTDA",
+        "address": "AV ABEL CABRAL",
+        "lat": -5.8771978,
+        "lng": -35.2076984
+    },
+    {
+        "id": "0l2",
+        "title": "GAMBARINI  BISSA LTDA",
+        "address": "AV. DOM HELVECIO GOMES DE OLIV",
+        "lat": -20.8286127,
+        "lng": -40.6913546
+    },
+    {
+        "id": "9P3",
+        "title": "COMERCIAL DE ALIMENTOS BURANHEM LTDA",
+        "address": "LADEIRA DO AEROPORTO",
+        "lat": -16.4361389,
+        "lng": -39.06764
+    },
+    {
+        "id": "XVm",
+        "title": "GERALDO ODON CHAVES FILHO",
+        "address": "AVENIDA 1 DE ABRIL",
+        "lat": -7.669883,
+        "lng": -36.8764671
+    },
+    {
+        "id": "ZgZ",
+        "title": "SUPERNOVA COMERCIO DE DOCES LTDA - EPP",
+        "address": "RUA ABAIARA",
+        "lat": -23.4492266,
+        "lng": -46.4736016
+    },
+    {
+        "id": "kvE",
+        "title": "D B RUSCIOLELLI DE UNA",
+        "address": "AVENIDA DAVID FUCHS",
+        "lat": -15.2929195,
+        "lng": -39.0711636
+    },
+    {
+        "id": "VBJ",
+        "title": "CENTRAL DA ECONOMIA SUPERMERCADOS EIRELI - ME",
+        "address": "R ASSIS CHATEAUBRIAND",
+        "lat": -6.4829647,
+        "lng": -35.4294108
+    },
+    {
+        "id": "WkR",
+        "title": "CELEIRO SUPERMERCADO LTDA",
+        "address": "RUA SENADOR HERMENEGILDO",
+        "lat": -17.7338558,
+        "lng": -49.1094957
+    },
+    {
+        "id": "gv1",
+        "title": "SB SUPERMERCADO LTDA ME",
+        "address": "RUA POLONIA",
+        "lat": -9.3826573,
+        "lng": -40.4896582
+    },
+    {
+        "id": "O1Y",
+        "title": "MERCADINHO PROVISAO LTDA",
+        "address": "RUA GENTIL LINS",
+        "lat": -7.213841,
+        "lng": -35.908343
+    },
+    {
+        "id": "E28",
+        "title": "EMPORIO CAMARGO ARARAQUARA LTDA. - ME",
+        "address": "RUA MIGUEL CORTEZ",
+        "lat": -21.8081216,
+        "lng": -48.1671769
+    },
+    {
+        "id": "10N",
+        "title": "MARIA DAS GRACAS DA PENHA COSTA - ME",
+        "address": "RUA SANTO ANTONIO",
+        "lat": -19.4112313,
+        "lng": -41.2460444
+    },
+    {
+        "id": "y13",
+        "title": "MR PAO PANIFICADORA LTDA ME",
+        "address": "RUA T, 88 - LJ B/C QD.0 L10",
+        "lat": -20.2073651,
+        "lng": -40.2448782
+    },
+    {
+        "id": "QQJ",
+        "title": "SUPERMERCADOS TATAIS EIRELI - EPP",
+        "address": "RUA PORTUGAL",
+        "lat": -22.9595514,
+        "lng": -44.4409358
+    },
+    {
+        "id": "7Nl",
+        "title": "BIG PAO LTDA",
+        "address": "AVENIDA DOS FERROVIARIOS",
+        "lat": -29.9488954,
+        "lng": -52.3602336
+    },
+    {
+        "id": "evb",
+        "title": "SUPERMERCADO SP 2  LTDA",
+        "address": "AV. JOAO TAZZIOLI",
+        "lat": -23.4848377,
+        "lng": -48.4205395
+    },
+    {
+        "id": "5mM",
+        "title": "GERALDO JOSE DE LIMA - EPP",
+        "address": "RUA AIMORES",
+        "lat": -19.6168668,
+        "lng": -41.6365159
+    },
+    {
+        "id": "zyB",
+        "title": "FRIGOTUDO SUPERMERCADO LTDA",
+        "address": "R. BONIFACIO NOBREGA",
+        "lat": -6.8705683,
+        "lng": -36.9118928
+    },
+    {
+        "id": "B23",
+        "title": "I HENRIQUE P DA SILVA ME",
+        "address": "AV JULIA RODRIGUES TORRES",
+        "lat": -8.3417543,
+        "lng": -36.4178862
+    },
+    {
+        "id": "JVM",
+        "title": "STOCK COMERCIO LTDA",
+        "address": "RUA FERNANDO LINHARES GUERRA",
+        "lat": -19.8933879,
+        "lng": -43.6692093
+    },
+    {
+        "id": "ovy",
+        "title": "GETWAY TESTES GEOLOCATION",
+        "address": "Avenida Barao de Itapura",
+        "lat": -22.8780005,
+        "lng": -47.05231
+    },
+    {
+        "id": "b40",
+        "title": "GETWAY AUTOMACAO COMERCIAL LTDA",
+        "address": "RUA POLONIA",
+        "lat": -22.7797453,
+        "lng": -47.1477668
+    },
+    {
+        "id": "d4A",
+        "title": "HUMBERTO LOPES CANCADO",
+        "address": "PRACA GETULIO VARGAS",
+        "lat": -19.3273964,
+        "lng": -45.234988
+    },
+    {
+        "id": "2Am",
+        "title": "COMERCIAL ITORORO LTDA - EPP",
+        "address": "RUA MAJOR JOSE TEOTONIO DE CAM",
+        "lat": -22.7573116,
+        "lng": -46.1473318
+    },
+    {
+        "id": "YX4",
+        "title": "SUPERMERCADOS E MINI PRECO JEQUIE LTDA",
+        "address": "RUA FELIX GASPAR",
+        "lat": -13.8598839,
+        "lng": -40.079202
+    },
+    {
+        "id": "PbA",
+        "title": "SUPERMERCADO PONTO CERTO LTDA",
+        "address": "RUA BARAO DE MORENO",
+        "lat": -8.1140939,
+        "lng": -35.0213249
+    },
+    {
+        "id": "qRn",
+        "title": "RITA MARIA FILHA - ME",
+        "address": "RUA ANTONIO P DE ALMEIDA",
+        "lat": -10.5921383,
+        "lng": -38.3840425
+    },
+    {
+        "id": "l0P",
+        "title": "A. JOSE BRIDI SUPERMERCADOS ME",
+        "address": "RUA 15 DE NOVEMBRO",
+        "lat": -17.5352677,
+        "lng": -39.1915987
+    },
+    {
+        "id": "6V1",
+        "title": "SUPERMERCADO SERRA DO CIPO LTDA",
+        "address": "RODOVIA MG 010 - KM 97",
+        "lat": -19.3342284,
+        "lng": -43.6252526
+    },
+    {
+        "id": "wvk",
+        "title": "SUPERMERCADOS E MINI PRECO JEQUIE LTDA",
+        "address": "RUA CORONEL COSTA BRITO",
+        "lat": -13.8595247,
+        "lng": -40.0780606
+    },
+    {
+        "id": "8gp",
+        "title": "MEGA PRIMUS SUPERMERCADOS LTDA - ME",
+        "address": "RUA BELO HORIZONTE",
+        "lat": -17.6972997,
+        "lng": -42.5147006
+    },
+    {
+        "id": "GM7",
+        "title": "TRIBOM SUPERMERCADOS LTDA-ME",
+        "address": "RUA ALEXANDRE MAGNO",
+        "lat": -3.0689214,
+        "lng": -60.0034823
+    },
+    {
+        "id": "xGP",
+        "title": "SUPERMERCADOS TATAIS EIRELI - EPP",
+        "address": "RUA JULIETA CONCEICAO REIS",
+        "lat": -22.9617903,
+        "lng": -44.4371159
+    },
+    {
+        "id": "rG8",
+        "title": "SUPERMERCADO VARANDA LTDA",
+        "address": "R. MINAS GERAIS",
+        "lat": -20.4611236,
+        "lng": -47.1246647
+    },
+    {
+        "id": "v2V",
+        "title": "DIEGAO SUPERMERCADO EIRELI ME",
+        "address": "RUA ESTADOS UNIDOS",
+        "lat": -16.683339,
+        "lng": -49.219914
+    },
+    {
+        "id": "3YA",
+        "title": "NA HORA SUPERMERCADO LTDA - ME",
+        "address": "R. OLIMPIO CAMPOS",
+        "lat": -15.9036235,
+        "lng": -44.3013298
+    },
+    {
+        "id": "Nbb",
+        "title": "MIRAMAR ALIMENTOS LTDA EPP",
+        "address": "R CEL AUGUSTO F. MAIA",
+        "lat": -7.1660144,
+        "lng": -34.8577205
+    },
+    {
+        "id": "p4z",
+        "title": "LIDIANA SANTANA CARDOSO OLIVEIRA",
+        "address": "RUA 02  DE NOVEMBRO",
+        "lat": -12.7692254,
+        "lng": -40.2097028
+    },
+    {
+        "id": "Mnr",
+        "title": "HIPER REAL COMERCIAL DE ALIMENTOS LTDA ME",
+        "address": "PRACA PROF SALGADO",
+        "lat": -10.4388541,
+        "lng": -39.3307445
+    },
+    {
+        "id": "n4R",
+        "title": "MAXBOM SUPERMERCADO RB LTDA",
+        "address": "RUA ANGELO SANTOS PENTEADO",
+        "lat": -24.2180139,
+        "lng": -48.7642533
+    },
+    {
+        "id": "Rn1",
+        "title": "MERCADINHO O TOURAO LTDA",
+        "address": "R ALICE ARAUJO CRUZ",
+        "lat": -7.2537461,
+        "lng": -35.9241941
+    },
+    {
+        "id": "Azk",
+        "title": "MAX SUPERMERCADO LTDA",
+        "address": "RUA MONS. SALES",
+        "lat": -7.3569442,
+        "lng": -35.7831484
+    },
+    {
+        "id": "m4e",
+        "title": "DISTRIBUIDORA DE ALIMENTOS DOCE PRECO LTDA",
+        "address": "R GOVERNADOR GONCALVES",
+        "lat": -13.3711818,
+        "lng": -39.0714727
+    },
+    {
+        "id": "j4z",
+        "title": "S R DA SILVA",
+        "address": "RUA CIDADE ALTA",
+        "lat": -5.8385729,
+        "lng": -35.2728792
+    },
+    {
+        "id": "4mj",
+        "title": "CANHOTINHO ALIMENTOS COMERCIO VAREJISTA LTDA ME",
+        "address": "RUA EUGENIO TAVARES DE MIRANDA",
+        "lat": -8.880259,
+        "lng": -36.1908766
+    },
+    {
+        "id": "002",
+        "title": "EMPORIO JOAB LTDA",
+        "address": "AV. TAYLOR SILVA",
+        "lat": -18.8928346,
+        "lng": -48.33293
+    },
+    {
+        "id": "9O3",
+        "title": "HIPER COMERCIO E DISTRIBUIDORA DE PROD. ALIM. LTDA",
+        "address": "AVENIDA JUREMA",
+        "lat": -23.4438871,
+        "lng": -46.4119018
+    },
+    {
+        "id": "XXm",
+        "title": "ANTONIA CORREIA CRISTOVAM DA SILVA ME",
+        "address": "RUA VER HORACIO FERRAZ CAVALCA",
+        "lat": -8.221004,
+        "lng": -34.9623645
+    },
+    {
+        "id": "ZXZ",
+        "title": "A. G. DA SILVA ALIMENTOS ME",
+        "address": "RUA BOM PASTOR",
+        "lat": -8.0505484,
+        "lng": -34.9374506
+    },
+    {
+        "id": "k4E",
+        "title": "SUPERMERCADO CAMBOLO P. S. LTDA - EPP",
+        "address": "PRACA DO CAMBOLO",
+        "lat": -16.4416293,
+        "lng": -39.0657942
+    },
+    {
+        "id": "VXJ",
+        "title": "LIMA SUPERMERCADOS LTDA ME",
+        "address": "RUA: PEDRO BIANCARDI",
+        "lat": -20.786848,
+        "lng": -40.797907
+    },
+    {
+        "id": "WXR",
+        "title": "MILLENA SUPERMERCADO LTDA ME",
+        "address": "AVENIDA DAS PALMEIRAS",
+        "lat": -17.7369957,
+        "lng": -39.255771
+    },
+    {
+        "id": "g41",
+        "title": "SUPERMERCADO MERCACERES LTDA",
+        "address": "RUA ALFREDO DE PADUA",
+        "lat": -15.3064316,
+        "lng": -49.5973828
+    },
+    {
+        "id": "ObY",
+        "title": "SUPERMERCADO TAMPINHA LTDA",
+        "address": "AV. OSVALDO CELSO MACIEL",
+        "lat": -8.5204487,
+        "lng": -36.4449182
+    },
+    {
+        "id": "Eb8",
+        "title": "SANTA BARBARA SUPERMERCADO LTDA",
+        "address": "AV DOUTOR ALBERTO DE OLIVEIRA",
+        "lat": -8.4724651,
+        "lng": -35.7276844
+    },
+    {
+        "id": "1wN",
+        "title": "MERCADO RIZZARDO LTDA",
+        "address": "GUILHERME FASOLO",
+        "lat": -29.1584084,
+        "lng": -51.521494
+    },
+    {
+        "id": "yX3",
+        "title": "NELLO COMERCIAL LTDA",
+        "address": "R. JULIO PRESTES",
+        "lat": -23.0532715,
+        "lng": -47.837584
+    },
+    {
+        "id": "QRJ",
+        "title": "GETWAY AUTOMACAO COMERCIAL LTDA",
+        "address": "AV BARAO DE ITAPURA",
+        "lat": -22.8999141,
+        "lng": -47.0703281
+    },
+    {
+        "id": "7Wl",
+        "title": "NORTE ATACADO LTDA",
+        "address": "ROD. DO CAFE, KM81",
+        "lat": -18.9736101,
+        "lng": -40.7393599
+    },
+    {
+        "id": "e4b",
+        "title": "VIEIRA E ANDRADE LTDA EPP",
+        "address": "AVENIDA -PORTO VELHO",
+        "lat": -10.1942976,
+        "lng": -63.8262647
+    },
+    {
+        "id": "5kM",
+        "title": "SUPERMERCADO GRAO DA SERRA 158 LTDA-ME",
+        "address": "R. DEOLINDA THURLER",
+        "lat": -22.3172231,
+        "lng": -42.5469483
+    },
+    {
+        "id": "k4j",
+        "title": "GREEN MART PADARIA AUTO SERVICO LTDA",
+        "address": "RUA PIRACICABA",
+        "lat": -20.3563524,
+        "lng": -40.348877
+    },
+    {
+        "id": "VX7",
+        "title": "VERA LUCIA MARQUES CPF 681899076-20",
+        "address": "RUA BENJAMIN CONSTANT",
+        "lat": -21.4130691,
+        "lng": -45.9424736
+    },
+    {
+        "id": "WXO",
+        "title": "FLORIANO BEZERRA DA SILVA",
+        "address": "ROD PB 065 KM 09",
+        "lat": -6.5258009,
+        "lng": -35.0161669
+    },
+    {
+        "id": "g4n",
+        "title": "ESTRELA DO VALE SUPERMERCADOS",
+        "address": "AVENIDA DR. ANTERO DE LUCENA R",
+        "lat": -16.0007133,
+        "lng": -41.2792089
+    },
+    {
+        "id": "O54",
+        "title": "SUPERMERCADO LESTE DE MINAS EIRELI",
+        "address": "AVENIDA ISABEL VIEIRA",
+        "lat": -19.7558476,
+        "lng": -42.0708105
+    },
+    {
+        "id": "EVR",
+        "title": "QUANTUM COMERCIO VAREJISTA EIRELI",
+        "address": "PCA CICERO MACEDO",
+        "lat": -18.9239912,
+        "lng": -48.2829514
+    },
+    {
+        "id": "1ld",
+        "title": "REX PET CENTER LTDA",
+        "address": "AV. DR. ARMANDO PANNUNZIO",
+        "lat": -23.5141699,
+        "lng": -47.487814
+    },
+    {
+        "id": "ylk",
+        "title": "SUPERCOP ZONA SUL EIRELI ME",
+        "address": "AV. AYRTON SENNA",
+        "lat": -5.8931228,
+        "lng": -35.1970252
+    },
+    {
+        "id": "QB3",
+        "title": "COSTA E SEABRA COM GEN ALIMENT E U DOMESTICOS LTDA",
+        "address": "AV BIAS FORTES",
+        "lat": -19.0361579,
+        "lng": -43.4236928
+    },
+    {
+        "id": "74A",
+        "title": "D. O. R. PADILHA - EPP",
+        "address": "RUA SAO EUSEBIO",
+        "lat": -3.011633,
+        "lng": -59.997448
+    },
+    {
+        "id": "eVz",
+        "title": "JANAINA E GIOVANA LTDA",
+        "address": "AVENIDA PAULO ALVES DA COSTA",
+        "lat": -16.6516495,
+        "lng": -49.1873949
+    },
+    {
+        "id": "5nE",
+        "title": "ADRIANA ALVES DIAS MENDES - ME",
+        "address": "AV GETULIO VARGAS",
+        "lat": -19.1718223,
+        "lng": -41.4705604
+    },
+    {
+        "id": "zlg",
+        "title": "FERROS COMERCIO DE DOCES E DERIVADOS LTDA  ME",
+        "address": "RUA URUBA",
+        "lat": -23.4675325,
+        "lng": -46.675879
+    },
+    {
+        "id": "BnX",
+        "title": "SAMPAIO HIPERMERCADO EIRELI EPP",
+        "address": "RUA MARIA LOUSADA",
+        "lat": -18.5682688,
+        "lng": -41.2331793
+    },
+    {
+        "id": "J1n",
+        "title": "CR PRODUTOS ALIMENTICIOS LTDA",
+        "address": "RUA RICARDO NEVES - QD10 LT02/",
+        "lat": -14.5402845,
+        "lng": -49.973077
+    },
+    {
+        "id": "o5w",
+        "title": "DISCAMPCHOC COMERCIO DE CHOCOLATES LTDA ME",
+        "address": "AV. WASHINGTON LUIZ",
+        "lat": -22.915928,
+        "lng": -47.0557173
+    },
+    {
+        "id": "bJx",
+        "title": "FABIO LIMA LEONARDO ME",
+        "address": "RUA FRANCISCO AMARO",
+        "lat": -6.9392949,
+        "lng": -36.6237358
+    },
+    {
+        "id": "dkX",
+        "title": "SUPERMERCADO O FILEZAO LTDA",
+        "address": "AV FLORIANO PEIXOTO",
+        "lat": -7.2258819,
+        "lng": -35.8993305
+    },
+    {
+        "id": "20w",
+        "title": "SUPERMERCADO DEL REY PAIVA LTDA",
+        "address": "R. ITAPETINGA",
+        "lat": -19.880506,
+        "lng": -43.9461676
+    },
+    {
+        "id": "YEX",
+        "title": "JJMG COMERCIAL DE ALIMENTOS LTDA",
+        "address": "RUA GENERAL FLORENCIO",
+        "lat": -23.5264568,
+        "lng": -46.8115441
+    },
+    {
+        "id": "Pzz",
+        "title": "A.BELINELLI DE JESUS EIRELI",
+        "address": "AV HENRIQUE POLIZELLI",
+        "lat": -21.7331802,
+        "lng": -48.1011003
+    },
+    {
+        "id": "qBE",
+        "title": "COMERCIO DE PRODUTOS ALIMENTICIOS CRUZEIRO DO SUL",
+        "address": "AV ANTONIO BUONO",
+        "lat": -23.5806574,
+        "lng": -46.5336292
+    },
+    {
+        "id": "lQY",
+        "title": "SUPERMERCADO J S T LTDA",
+        "address": "R. GUARANI",
+        "lat": -19.9551953,
+        "lng": -44.1585383
+    },
+    {
+        "id": "64b",
+        "title": "MINI MERCADO SAO JORGE DIADEMA LTDA",
+        "address": "AV AFONSO MONTEIRO DA CRUZ",
+        "lat": -23.7041248,
+        "lng": -46.6199288
+    },
+    {
+        "id": "wNJ",
+        "title": "RIVALDO SOARES CIA LTDA-ME",
+        "address": "RUA LEOPOLDO RAPOSO",
+        "lat": -8.8045146,
+        "lng": -35.6255559
+    },
+    {
+        "id": "8n4",
+        "title": "SUPERMERCADO PEREIRA DE VARGEM GRANDE LTDA",
+        "address": "RUA MAGALHAES PINTO",
+        "lat": -18.686176,
+        "lng": -41.1952057
+    },
+    {
+        "id": "Ggq",
+        "title": "DISTRIBUIDORA MENEZES LTDA",
+        "address": "NOSSA SENHORA DO ROSARIO",
+        "lat": -3.142433,
+        "lng": -58.4233829
+    },
+    {
+        "id": "x4O",
+        "title": "WELLINGTON SOARES ALVES - ME",
+        "address": "RUA VERISSIMA VIEIRA DOS SANTO",
+        "lat": -17.2377167,
+        "lng": -46.8767366
+    },
+    {
+        "id": "rJn",
+        "title": "REDE UNIAO ATACADISTA DE ALIMENTOS LTDA - EPP",
+        "address": "AV.GENERAL BARRETO DE MENEZES",
+        "lat": -8.1569305,
+        "lng": -34.9292225
+    },
+    {
+        "id": "vny",
+        "title": "G & S PRODUTOS ALIMENTICIOS LTDA",
+        "address": "RUA TENENTE JOSE DA ROCHA JUNI",
+        "lat": -16.3349203,
+        "lng": -48.9453426
+    },
+    {
+        "id": "3wn",
+        "title": "LOJAS MEIRA LTDA",
+        "address": "AV. DR. RUI MARIZ",
+        "lat": -6.57998,
+        "lng": -36.8021431
+    },
+    {
+        "id": "Ne6",
+        "title": "ELIESER AFONSO BARBOSA - EPP",
+        "address": "AVENIDA ESTADOS UNIDOS",
+        "lat": -17.5327119,
+        "lng": -39.7667191
+    },
+    {
+        "id": "pze",
+        "title": "ANDRE MONTEIRO DE SAMPAIO",
+        "address": "R. MINERVINO SEVERIANO CALDAS",
+        "lat": -7.0571982,
+        "lng": -35.3132287
+    },
+    {
+        "id": "M7E",
+        "title": "GETWAY AUTOMACAO COMERCIAL LTDA",
+        "address": "AV. BARAO DE ITAPURA",
+        "lat": -22.8780005,
+        "lng": -47.05231
+    },
+    {
+        "id": "neJ",
+        "title": "I FRANCISCO ROCHA - ME",
+        "address": "R SEVERINO BERNARDO FILHO",
+        "lat": -6.046658,
+        "lng": -35.431299
+    },
+    {
+        "id": "RJb",
+        "title": "SUESTENY DE A. SOARES",
+        "address": "RUA DOM NIVALDO MONTE",
+        "lat": -6.266146,
+        "lng": -35.2074528
+    },
+    {
+        "id": "A0E",
+        "title": "ADRIANO DE OLIVEIRA ARAUJO ME",
+        "address": "RUA VEREADOR GUILHERMINO PEREI",
+        "lat": -15.357316,
+        "lng": -42.9595923
+    },
+    {
+        "id": "m79",
+        "title": "FARIAS E FILHO SUPERMERCADO LTDA EPP",
+        "address": "RUA VER. JOSE DA SILVA JACOB",
+        "lat": -19.8280474,
+        "lng": -42.314826
+    },
+    {
+        "id": "j1P",
+        "title": "SUPERMERCADO CAMPOMAR DE MAR DE ESPANHA LTDA - EPP",
+        "address": "RUA ESTEVAO PINTO",
+        "lat": -21.8642128,
+        "lng": -43.0087434
+    },
+    {
+        "id": "4nN",
+        "title": "JOSE AUGUSTO HONORATO DE FREITAS CARVALHO EIRELI -",
+        "address": "RUA 1",
+        "lat": -16.7780494,
+        "lng": -47.5984817
+    },
+    {
+        "id": "0qd",
+        "title": "S W SUPERMERCADO LTDA",
+        "address": "R.DOMINGOS V.DE LIMA",
+        "lat": -21.2467817,
+        "lng": -45.5044949
+    },
+    {
+        "id": "9nw",
+        "title": "SINDICATO DOS TRAB. RURAIS DE PATROCINIO E REGIAO",
+        "address": "AV. FARIA PEREIRA",
+        "lat": -18.9328174,
+        "lng": -46.974512
+    },
+    {
+        "id": "XZg",
+        "title": "BONTEMPO SUPERMERCADO LTDA",
+        "address": "RUA DOM TOMAZ",
+        "lat": -9.3973232,
+        "lng": -40.5431591
+    },
+    {
+        "id": "Z1N",
+        "title": "JETRO MARQUES SOUSA",
+        "address": "AV. ROSEANA SARNEY",
+        "lat": -4.5642721,
+        "lng": -45.1261859
+    },
+    {
+        "id": "kyj",
+        "title": "SMART SUPERMERCADOS FORMOSA LTDA",
+        "address": "AVENIDA TANCREDO NEVES QD.246",
+        "lat": -15.5506184,
+        "lng": -47.3368399
+    },
+    {
+        "id": "VW7",
+        "title": "SUPERMERCADO MAGALHAES LTDA",
+        "address": "RUA 6",
+        "lat": -13.2705937,
+        "lng": -50.163057
+    },
+    {
+        "id": "WgO",
+        "title": "P.S. CORDEIRO MINIMERCADO - ME",
+        "address": "RUA SETE DE SETEMBRO",
+        "lat": -24.1103147,
+        "lng": -49.3123563
+    },
+    {
+        "id": "ggn",
+        "title": "KARLO CESAR SANTANA DE FRANCA ME",
+        "address": "AV 27 DE MARCO",
+        "lat": -5.1949116,
+        "lng": -35.4651779
+    },
+    {
+        "id": "Or4",
+        "title": "SUPERMERCADO MARTINS E BARROS LTDA - EPP",
+        "address": "AV. OCTACILIO VIEIRA CAMPOS",
+        "lat": -20.3841908,
+        "lng": -42.2482401
+    },
+    {
+        "id": "EXR",
+        "title": "SUPERMERCADO LIMA - ROSARIO LTDA - EPP",
+        "address": "AV PARACATU",
+        "lat": -18.5770159,
+        "lng": -46.5167321
+    },
+    {
+        "id": "17d",
+        "title": "NIVALDO DE FREITAS CARVALHO ME",
+        "address": "RUA TAPAJOS",
+        "lat": -16.7766475,
+        "lng": -47.617595
+    },
+    {
+        "id": "yBk",
+        "title": "MERCADO SANTANA CONFEITARIA LTDA",
+        "address": "AVENIDA ULYSSES GUIMARAES",
+        "lat": -12.9371103,
+        "lng": -38.4521974
+    },
+    {
+        "id": "Qr3",
+        "title": "LUCIA TEIXEIRA DE SANTANA",
+        "address": "QUADRA B",
+        "lat": -9.422092,
+        "lng": -40.4811468
+    },
+    {
+        "id": "7oA",
+        "title": "MAXBOM SUPERMERCADO RB LTDA",
+        "address": "RUA BENJAMIN CONSTANT",
+        "lat": -23.9902314,
+        "lng": -48.8755701
+    },
+    {
+        "id": "eRz",
+        "title": "DISTRIBUIDORA DE ALIMENTOS POR DO SOL LTDA - EPP",
+        "address": "RUA TIRADENTES QD.68 LT.01",
+        "lat": -16.6587789,
+        "lng": -49.319156
+    },
+    {
+        "id": "5BE",
+        "title": "SUPERMERCADO FARNEZE E ALVES LTDA",
+        "address": "RUA CARLOS PRATES",
+        "lat": -17.6947768,
+        "lng": -42.5075741
+    },
+    {
+        "id": "zJg",
+        "title": "KELVIN AUGUSTO SOUZA MOREIRA - ME",
+        "address": "GERALDO GONCALVES DE SOUZA",
+        "lat": -20.1031635,
+        "lng": -44.593928
+    },
+    {
+        "id": "BvX",
+        "title": "N V DA SILVA COMERCIO EIRELI",
+        "address": "R FLORIANO ROSA",
+        "lat": -10.2810153,
+        "lng": -36.5536556
+    },
+    {
+        "id": "Jrn",
+        "title": "SUPERMERCADO MOREIRA BAHIA LTDA",
+        "address": "PCA DO MERCADO",
+        "lat": -10.285064,
+        "lng": -37.92623
+    },
+    {
+        "id": "ogw",
+        "title": "SUPERMERCADO SUPER ECONOMICO LTDA",
+        "address": "AVENIDA JOVINO MARIANO GOMES",
+        "lat": -18.37505,
+        "lng": -46.029411
+    },
+    {
+        "id": "bRx",
+        "title": "SUPERMERCADO MOADI EIRELI",
+        "address": "RUA DR ARLINDO LUZ",
+        "lat": -22.293733,
+        "lng": -44.9347687
+    },
+    {
+        "id": "dRX",
+        "title": "MALVES SUPERMERCADOS LTDA ME",
+        "address": "R. DR. JOAO MINERVINO DUTRA DE",
+        "lat": 0,
+        "lng": 0
+    },
+    {
+        "id": "2ew",
+        "title": "GERALDO ODON CHAVES FILHO",
+        "address": "PRACA JOSE AMERICO DE ALMEIDA",
+        "lat": 0,
+        "lng": 0
+    },
+    {
+        "id": "YrX",
+        "title": "J MASCARENHAS ASSIS - ME",
+        "address": "RUA MANOEL FLORENCIO",
+        "lat": 0,
+        "lng": 0
+    },
+    {
+        "id": "Pnz",
+        "title": "MARIA JOSIMARA BROETTO NUNES - ME",
+        "address": "RUA EVERALDO SILVA",
+        "lat": 0,
+        "lng": 0
+    },
+    {
+        "id": "qEE",
+        "title": "DURVAL HENRIQUE DE OLIVEIRA",
+        "address": "RUA IRINEU JOFFILY",
+        "lat": 0,
+        "lng": 0
+    }
+]
