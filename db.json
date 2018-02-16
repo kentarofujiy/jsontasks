@@ -1,4 +1,6 @@
-[
+
+{
+   "Result":[
     {
         "id": "wOk",
         "title": "Supermercados Dalben",
@@ -21,3 +23,4 @@
         "lng": -47.1047774
     }
 ]
+}
