@@ -1,21 +1,14 @@
-    {
-        "id": "wOk",
-        "title": "Supermercados Dalben",
-        "address": "Avenida Nossa Senhora de Fatima",
-        "lat": -22.8771743,
-        "lng": -47.0429612
-    },
-    {
-        "id": "8Np",
-        "title": "Lojas Swift",
-        "address": "Avenida Barao de Itapura",
-        "lat": -22.8869972,
-        "lng": -47.0594963
-    },
-    {
-        "id": "G27",
-        "title": "Higa Produtos Alimentícios Ltda",
-        "address": "Rua Pedro Stancato",
-        "lat": -22.8582613,
-        "lng": -47.1047774
-    }
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
