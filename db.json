@@ -1,6 +1,5 @@
 {
  "resultCount":1,
  "results": [
-{"wrapperType":"track", "kind":"song", "artistId":81426675, "collectionId":1326415388, "trackId":1326416007, "artistName":"Plies", "collectionName":"Ain't No Mixtape Bih 3", "trackName":"Rock", "collectionCensoredName":"Ain't No Mixtape Bih 3", "trackCensoredName":"Rock", "artistViewUrl":"https://itunes.apple.com/us/artist/plies/81426675?uo=4", "collectionViewUrl":"https://itunes.apple.com/us/album/rock/1326415388?i=1326416007&uo=4", "trackViewUrl":"https://itunes.apple.com/us/album/rock/1326415388?i=1326416007&uo=4", 
-"previewUrl":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/ca/86/f9/ca86f95e-6b82-48e3-2ca4-564a675f63f5/mzaf_2699634503256575395.plus.aac.p.m4a"}]
+{"wrapperType":"track", "kind":"song", "artistId":81426675, "collectionId":1326415388, "trackId":1326416007, "artistName":"Plies", "collectionName":"Ain't No Mixtape Bih 3", "trackName":"Rock", "collectionCensoredName":"Ain't No Mixtape Bih 3"}]
 }
